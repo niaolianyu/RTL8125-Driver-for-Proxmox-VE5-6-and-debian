@@ -20,6 +20,8 @@ Support Proxmox VE 5.0-6.0 (include 6.2.x) 【支持PVE 5.0-6.0 系统，包括6
 
 r8125-9.003.05.tar.bz2 provided by Realtek.com 【r8125-9.003.05.tar.bz2由Realtek官网提供】
 
+最新下载地址 
+https://rtitwww.realtek.com/zh-tw/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software
 Support Linux kernel version 2.4 to 5.6   【支持的Linux内核版本，从2.4到5.6】
     
 	root@hostname# 这个是命令提示符， "#" 井号后面的才是SHELL命令
